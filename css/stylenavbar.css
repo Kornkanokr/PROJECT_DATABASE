@@ -37,6 +37,7 @@ header{
 
 .nav-bar ul{
     display: flex;
+    margin-top: 2%;
 }
 
 .nav-bar ul li a{
@@ -121,11 +122,11 @@ header{
     width: 1200px;
     border-radius: 25px;
     padding-bottom: 15px;
+    margin-top: 15%;
 }
 .form-check {
     max-width: 80rem;
     margin: auto;
-    padding: 10%;
 }
 
 .form-floating{
